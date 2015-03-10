@@ -1,4 +1,4 @@
-# Import Map Data for kufi.ifcontro.ch
+# Import Map Data for kufi.ifcontrol.ch
 
 This repository can be used to create test-users with new test data at kufi.ifcontrol.ch.
 
