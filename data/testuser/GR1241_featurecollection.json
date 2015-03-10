@@ -1,0 +1,123 @@
+{
+  "perimeter_ID": "GR_1241",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "SCHUTZ": 3,
+        "MNE_ID": 1241,
+        "WERK_NR": "2",
+        "WERK_ART": "S16",
+        "WERKART": "Schutzwand mit Stahl",
+        "BAUJAHR": null,
+        "FOTO": "994_1241_2_NW",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 6.8949343942859
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6062401916499,
+            46.975088257144
+          ],
+          [
+            9.6063302334652,
+            46.975081303066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "SCHUTZ": 3,
+        "MNE_ID": 1241,
+        "WERK_NR": "3",
+        "WERK_ART": "S17",
+        "WERKART": "Auffangdamm",
+        "BAUJAHR": null,
+        "FOTO": "916",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": "Bruchsteinmauerwerk Überwachsen",
+        "DATE_OUT": null,
+        "SHAPE_Length": 205.44790760934
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6048038027412,
+            46.975136862974
+          ],
+          [
+            9.6035031046335,
+            46.975150055882
+          ],
+          [
+            9.6021069816509,
+            46.975087020136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 46,
+        "SCHUTZ": 3,
+        "MNE_ID": 1241,
+        "WERK_NR": "1",
+        "WERK_ART": "S17",
+        "WERKART": "Auffangdamm",
+        "BAUJAHR": null,
+        "FOTO": "913",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 4,
+        "BEMERKUNG": "Bruchsteinmauerwerk Überwachsen",
+        "DATE_OUT": null,
+        "SHAPE_Length": 122.30190596447
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6072100443784,
+            46.974913461941
+          ],
+          [
+            9.6069993977547,
+            46.974935386231
+          ],
+          [
+            9.6063924348455,
+            46.975063468145
+          ],
+          [
+            9.6062264218211,
+            46.975078140485
+          ],
+          [
+            9.6056358984409,
+            46.975103404648
+          ]
+        ]
+      }
+    }
+  ]
+}

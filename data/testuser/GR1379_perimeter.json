@@ -1,0 +1,57 @@
+{
+  "type": "perimeter",
+  "perimeter_ID": "GR_1379",
+  "properties": {
+    "OBJECTID": 2,
+    "NAME": "SSV Hähi (RhB)",
+    "MNE_ID": 1379,
+    "BAU_BEG": 0,
+    "BAU_END": null,
+    "BEMERKUNG": "Werke nicht vermessen, da in einem schlechten Zustand",
+    "UHE_ID": null,
+    "VG_ID": 1100,
+    "DATE_OUT": null,
+    "INFOBLATT": null,
+    "SHAPE_Length": 597.46549570279,
+    "SHAPE_Area": 15870.597818051
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.6097815610322,
+          46.974988758255
+        ],
+        [
+          9.6085826043922,
+          46.97462936123
+        ],
+        [
+          9.607504975968,
+          46.975031873682
+        ],
+        [
+          9.6063004294711,
+          46.975467758845
+        ],
+        [
+          9.6064367094625,
+          46.975666562293
+        ],
+        [
+          9.6069015566816,
+          46.975781694251
+        ],
+        [
+          9.6083632157622,
+          46.975547479621
+        ],
+        [
+          9.6097815610322,
+          46.974988758255
+        ]
+      ]
+    ]
+  }
+}

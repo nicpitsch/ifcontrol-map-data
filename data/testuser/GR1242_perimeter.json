@@ -1,0 +1,49 @@
+{
+  "type": "perimeter",
+  "perimeter_ID": "GR_1242",
+  "properties": {
+    "OBJECTID": 3,
+    "NAME": "SSV Chlus Ost (RhB)",
+    "MNE_ID": 1242,
+    "BAU_BEG": 0,
+    "BAU_END": null,
+    "BEMERKUNG": null,
+    "UHE_ID": null,
+    "VG_ID": 1023,
+    "DATE_OUT": null,
+    "INFOBLATT": "http:\/\/www.gr.ch\/DE\/institutionen\/verwaltung\/bvfd\/awn\/dokumente_sbk\/MNE_1242.pdf",
+    "SHAPE_Length": 544.47814936083,
+    "SHAPE_Area": 7640.7364646
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.621034668243,
+          46.97604086629
+        ],
+        [
+          9.6197987900812,
+          46.975956058188
+        ],
+        [
+          9.6196570708824,
+          46.976238491125
+        ],
+        [
+          9.6229103319276,
+          46.976493601802
+        ],
+        [
+          9.6228245801611,
+          46.976232430838
+        ],
+        [
+          9.621034668243,
+          46.97604086629
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "perimeter_ID": "GR_1372",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "SCHUTZ": 2,
+        "MNE_ID": 1372,
+        "WERK_NR": "9",
+        "WERK_ART": "H06",
+        "WERKART": "ingenieurbiologische Massnahmen",
+        "BAUJAHR": null,
+        "FOTO": null,
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": "Wuhrbaute",
+        "DATE_OUT": null,
+        "SHAPE_Length": 641.87540280699
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6203439612482,
+            46.975746745024
+          ],
+          [
+            9.6208422884348,
+            46.975835079444
+          ],
+          [
+            9.6214153750625,
+            46.975869313295
+          ],
+          [
+            9.6218575529421,
+            46.9759286135
+          ],
+          [
+            9.6225932851781,
+            46.97590706715
+          ],
+          [
+            9.6230436960381,
+            46.975898481362
+          ],
+          [
+            9.6238959206684,
+            46.975778115417
+          ],
+          [
+            9.6251684574152,
+            46.975582505168
+          ],
+          [
+            9.626183650679,
+            46.975451101301
+          ],
+          [
+            9.6273687830438,
+            46.975237365863
+          ],
+          [
+            9.6282054274875,
+            46.974977559405
+          ],
+          [
+            9.6285389119262,
+            46.974892108843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "SCHUTZ": 2,
+        "MNE_ID": 1372,
+        "WERK_NR": "2",
+        "WERK_ART": "H08",
+        "WERKART": "Stützmauer Blockstein",
+        "BAUJAHR": null,
+        "FOTO": null,
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 46.111214142325
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6089548724588,
+            46.973659868354
+          ],
+          [
+            9.6087911229007,
+            46.973736652125
+          ],
+          [
+            9.6086871303475,
+            46.973827039077
+          ],
+          [
+            9.608602715569,
+            46.973869162915
+          ],
+          [
+            9.6084805034377,
+            46.973908318467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "SCHUTZ": 3,
+        "MNE_ID": 1372,
+        "WERK_NR": "8",
+        "WERK_ART": "S02",
+        "WERKART": "Schutzbauten mit Gelenkstützen (Netz, alle Typen)",
+        "BAUJAHR": null,
+        "FOTO": null,
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 22.660567865217
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6201144926031,
+            46.976117241431
+          ],
+          [
+            9.6199604493089,
+            46.976096343048
+          ],
+          [
+            9.6199774523481,
+            46.976000698869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "SCHUTZ": 3,
+        "MNE_ID": 1372,
+        "WERK_NR": "7",
+        "WERK_ART": "S02",
+        "WERKART": "Schutzbauten mit Gelenkstützen (Netz, alle Typen)",
+        "BAUJAHR": null,
+        "FOTO": "IMAG0060",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": "Steinschlagnetz auf Mauer",
+        "DATE_OUT": null,
+        "SHAPE_Length": 76.762047292193
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6191571177431,
+            46.975758623299
+          ],
+          [
+            9.6189112016894,
+            46.975664345169
+          ],
+          [
+            9.6186928186693,
+            46.975585652887
+          ],
+          [
+            9.6184008969605,
+            46.975517564776
+          ],
+          [
+            9.6182349190082,
+            46.975487353534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "SCHUTZ": 3,
+        "MNE_ID": 1372,
+        "WERK_NR": "5",
+        "WERK_ART": "S02",
+        "WERKART": "Schutzbauten mit Gelenkstützen (Netz, alle Typen)",
+        "BAUJAHR": null,
+        "FOTO": "IMAG0062;IMAG0063",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": "Steinschlagschutznetz auf Mauer",
+        "DATE_OUT": null,
+        "SHAPE_Length": 169.37583416538
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6178121098782,
+            46.975425204608
+          ],
+          [
+            9.6175523864346,
+            46.975404829008
+          ],
+          [
+            9.617100322576,
+            46.975367398645
+          ],
+          [
+            9.6165161113645,
+            46.975304861642
+          ],
+          [
+            9.6160940985767,
+            46.97526225336
+          ],
+          [
+            9.615772504153,
+            46.975208529982
+          ],
+          [
+            9.6156138543684,
+            46.975193134117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 41,
+        "SCHUTZ": 3,
+        "MNE_ID": 1372,
+        "WERK_NR": "1",
+        "WERK_ART": "S16",
+        "WERKART": "Schutzwand mit Stahl",
+        "BAUJAHR": null,
+        "FOTO": "P3110416",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 4.5949115689331
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6084857958594,
+            46.973500911973
+          ],
+          [
+            9.6085409355544,
+            46.97351776051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "SCHUTZ": 3,
+        "MNE_ID": 1372,
+        "WERK_NR": "2",
+        "WERK_ART": "S16",
+        "WERKART": "Schutzwand mit Stahl",
+        "BAUJAHR": null,
+        "FOTO": "P3110417;P3110419",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 10.031222150424
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.608690844557,
+            46.973400111214
+          ],
+          [
+            9.6088141253195,
+            46.973432069845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "SCHUTZ": 3,
+        "MNE_ID": 1372,
+        "WERK_NR": "3",
+        "WERK_ART": "S16",
+        "WERKART": "Schutzwand mit Stahl",
+        "BAUJAHR": null,
+        "FOTO": "P3110418",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 7.929308739335
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6088199326978,
+            46.973414067072
+          ],
+          [
+            9.6089147956527,
+            46.973443582617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 49,
+        "SCHUTZ": 3,
+        "MNE_ID": 1372,
+        "WERK_NR": "4",
+        "WERK_ART": "S00",
+        "WERKART": "andere Werkarten",
+        "BAUJAHR": null,
+        "FOTO": "IMAG0064;IMAG0065",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": "Mauer auf Mauer",
+        "DATE_OUT": null,
+        "SHAPE_Length": 362.70863725524
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6155925185928,
+            46.975184461697
+          ],
+          [
+            9.6152717619607,
+            46.97513600589
+          ],
+          [
+            9.6147114319165,
+            46.975075733584
+          ],
+          [
+            9.6141836216379,
+            46.975031206856
+          ],
+          [
+            9.6136808073471,
+            46.975013477962
+          ],
+          [
+            9.6132810786085,
+            46.974982880545
+          ],
+          [
+            9.6127605716881,
+            46.974921842953
+          ],
+          [
+            9.6122940453055,
+            46.974816139433
+          ],
+          [
+            9.611696351183,
+            46.97462018773
+          ],
+          [
+            9.6110634983875,
+            46.974343074558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "SCHUTZ": 3,
+        "MNE_ID": 1372,
+        "WERK_NR": "6",
+        "WERK_ART": "S00",
+        "WERKART": "andere Werkarten",
+        "BAUJAHR": null,
+        "FOTO": "IMAG0061",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": null,
+        "BEMERKUNG": "Mauer auf Mauer",
+        "DATE_OUT": null,
+        "SHAPE_Length": 31.294040697126
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6178324540223,
+            46.975429420477
+          ],
+          [
+            9.6182349190082,
+            46.975487353534
+          ]
+        ]
+      }
+    }
+  ]
+}

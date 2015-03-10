@@ -1,0 +1,115 @@
+{
+  "perimeter_ID": "GR_1242",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "SCHUTZ": 3,
+        "MNE_ID": 1242,
+        "WERK_NR": "3",
+        "WERK_ART": "S01",
+        "WERKART": "Schutzbauten mit starren Stützen (alle Typen)",
+        "BAUJAHR": null,
+        "FOTO": "911",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 1.7,
+        "BEMERKUNG": "Netz auf Betonmauer montiert",
+        "DATE_OUT": null,
+        "SHAPE_Length": 32.581128671203
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6198344152445,
+            46.976016883738
+          ],
+          [
+            9.6200083337306,
+            46.976163487055
+          ],
+          [
+            9.6201605783182,
+            46.976165710609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 47,
+        "SCHUTZ": 3,
+        "MNE_ID": 1242,
+        "WERK_NR": "1",
+        "WERK_ART": "S17",
+        "WERKART": "Auffangdamm",
+        "BAUJAHR": null,
+        "FOTO": "908",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 4,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 184.08833431202
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6227463428358,
+            46.976344166066
+          ],
+          [
+            9.620642323295,
+            46.97624530366
+          ],
+          [
+            9.6203718452189,
+            46.976141116414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 48,
+        "SCHUTZ": 3,
+        "MNE_ID": 1242,
+        "WERK_NR": "2",
+        "WERK_ART": "S00",
+        "WERKART": "andere Werkarten",
+        "BAUJAHR": null,
+        "FOTO": "910",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 4,
+        "BEMERKUNG": "Betonmauer",
+        "DATE_OUT": null,
+        "SHAPE_Length": 26.98162518654
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6200103757024,
+            46.976150842027
+          ],
+          [
+            9.6203645220157,
+            46.976163108983
+          ]
+        ]
+      }
+    }
+  ]
+}

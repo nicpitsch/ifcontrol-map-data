@@ -1,0 +1,64 @@
+{
+  "perimeter_ID": "GR_1379",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "SCHUTZ": 3,
+        "MNE_ID": 1379,
+        "WERK_NR": "1",
+        "WERK_ART": "S00",
+        "WERKART": "andere Werkarten",
+        "BAUJAHR": null,
+        "FOTO": "P1010922; P1010926",
+        "TECH_SPEZ": null,
+        "BEMERKUNG": "diverse Wände, Werke nicht vermessen",
+        "DATE_OUT": null,
+        "SHAPE_Length": 568.42731920076,
+        "SHAPE_Area": 13938.438849576
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.6096888256185,
+              46.974985466319
+            ],
+            [
+              9.6085852251777,
+              46.974658093547
+            ],
+            [
+              9.6063651578948,
+              46.975483742256
+            ],
+            [
+              9.606480638215,
+              46.975643257264
+            ],
+            [
+              9.6069209752289,
+              46.975746872163
+            ],
+            [
+              9.6083293486474,
+              46.975521196288
+            ],
+            [
+              9.6096888256185,
+              46.974985466319
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

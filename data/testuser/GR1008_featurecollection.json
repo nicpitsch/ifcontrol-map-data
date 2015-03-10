@@ -1,0 +1,1199 @@
+{
+  "perimeter_ID": "GR_1008",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "SCHUTZ": 2,
+        "MNE_ID": 1008,
+        "WERK_NR": "34",
+        "WERK_ART": "H09",
+        "WERKART": "Drahtschotterkorb",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_34_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 1.5,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 17.305302524673
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6181652223298,
+            46.979641169215
+          ],
+          [
+            9.6180056909929,
+            46.97953021816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "SCHUTZ": 2,
+        "MNE_ID": 1008,
+        "WERK_NR": "35",
+        "WERK_ART": "H09",
+        "WERKART": "Drahtschotterkorb",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_35_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 1.5,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 7.9999853355799
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6179839988902,
+            46.979557995455
+          ],
+          [
+            9.6179001024866,
+            46.979514619619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "SCHUTZ": 2,
+        "MNE_ID": 1008,
+        "WERK_NR": "31",
+        "WERK_ART": "H09",
+        "WERKART": "Drahtschotterkorb",
+        "BAUJAHR": 1995,
+        "FOTO": null,
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 1.5,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 7.8050879759657
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6191119875827,
+            46.979862312636
+          ],
+          [
+            9.6190814289269,
+            46.979848731213
+          ],
+          [
+            9.6190216631154,
+            46.979829331817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "SCHUTZ": 2,
+        "MNE_ID": 1008,
+        "WERK_NR": "32",
+        "WERK_ART": "H09",
+        "WERKART": "Drahtschotterkorb",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_32_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 1.5,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 37.174182585144
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6190307118013,
+            46.97987377291
+          ],
+          [
+            9.6186128942169,
+            46.979700437315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "SCHUTZ": 2,
+        "MNE_ID": 1008,
+        "WERK_NR": "30",
+        "WERK_ART": "H09",
+        "WERKART": "Drahtschotterkorb",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_30_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 1.5,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 12.823896585189
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6195400247022,
+            46.979905153089
+          ],
+          [
+            9.6194765500484,
+            46.979883663048
+          ],
+          [
+            9.619438270101,
+            46.979870974649
+          ],
+          [
+            9.6193841627051,
+            46.979863506084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "SCHUTZ": 2,
+        "MNE_ID": 1008,
+        "WERK_NR": "33",
+        "WERK_ART": "H09",
+        "WERKART": "Drahtschotterkorb",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_33_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 1.5,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 8.3391254604565
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6185496427409,
+            46.979694851151
+          ],
+          [
+            9.6184680132722,
+            46.979644795227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "13",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_13_1 / 2",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 16.141879952929
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.620563092263,
+            46.979761288793
+          ],
+          [
+            9.6204534690215,
+            46.979757992215
+          ],
+          [
+            9.6203591255327,
+            46.97973069869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "21",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_21_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 26.246593403498
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.620240264538,
+            46.979211378137
+          ],
+          [
+            9.6205813229623,
+            46.979246782833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "26",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_26_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 66.188821675672
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6200031372112,
+            46.978494707194
+          ],
+          [
+            9.6201812842533,
+            46.978623119247
+          ],
+          [
+            9.6202752128845,
+            46.978710095951
+          ],
+          [
+            9.6204628476024,
+            46.978781839089
+          ],
+          [
+            9.6206960798481,
+            46.978815056266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "10",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_10_1 / 10_2",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 135.23082388383
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.620487397072,
+            46.979867489161
+          ],
+          [
+            9.619911198663,
+            46.979820449222
+          ],
+          [
+            9.6197908913885,
+            46.979788039729
+          ],
+          [
+            9.6196696916189,
+            46.979733695005
+          ],
+          [
+            9.6194816623851,
+            46.979664334578
+          ],
+          [
+            9.6193598607944,
+            46.979595129898
+          ],
+          [
+            9.6190826574569,
+            46.979495599084
+          ],
+          [
+            9.6188914409387,
+            46.979398680754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "20",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_20_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 57.148807041536
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6193370831659,
+            46.979045013497
+          ],
+          [
+            9.6194481430224,
+            46.979123704676
+          ],
+          [
+            9.6196849866154,
+            46.97924888303
+          ],
+          [
+            9.6199469356901,
+            46.97933719445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "11",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_11_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 8.0203076909927
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6187685452496,
+            46.979366081001
+          ],
+          [
+            9.6188505544025,
+            46.979411407021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 17,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "12",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_12_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 45.029054631978
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.618818372619,
+            46.979344682776
+          ],
+          [
+            9.6186503662916,
+            46.979255602074
+          ],
+          [
+            9.6183962063547,
+            46.979062915072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "19",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_19_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 26.983154990249
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6202075635288,
+            46.979341347579
+          ],
+          [
+            9.6203113431787,
+            46.979364707343
+          ],
+          [
+            9.6205548649092,
+            46.979385406256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "25",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_25_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 56.623767089395
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6200500921207,
+            46.978800002628
+          ],
+          [
+            9.6201312522013,
+            46.978860307688
+          ],
+          [
+            9.6202232136373,
+            46.978899458296
+          ],
+          [
+            9.6204324215505,
+            46.978954332318
+          ],
+          [
+            9.620719590907,
+            46.97899076352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "24",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_24_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 28.273042055673
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.619671369645,
+            46.978770301225
+          ],
+          [
+            9.6197846141864,
+            46.978866906317
+          ],
+          [
+            9.619920960573,
+            46.978958084517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "14",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_14_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 17.79553013677
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6203443545235,
+            46.979637143352
+          ],
+          [
+            9.6204485159509,
+            46.979669879481
+          ],
+          [
+            9.6205676319463,
+            46.979665735231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "17",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_17_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 19.691591082608
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6203032452941,
+            46.979502801158
+          ],
+          [
+            9.6204175671085,
+            46.979515638718
+          ],
+          [
+            9.6205597437864,
+            46.979505424968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "22",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_22_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 37.59197907791
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6195072003855,
+            46.978891141093
+          ],
+          [
+            9.6197008351829,
+            46.979029112593
+          ],
+          [
+            9.6198636010339,
+            46.979124775027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "18",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_18_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 26.039527137476
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.619366907515,
+            46.979205057503
+          ],
+          [
+            9.6196408111745,
+            46.979345491487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": " 5",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_5_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 20.737655584191
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.620597115284,
+            46.980048611666
+          ],
+          [
+            9.6208474131247,
+            46.980122449145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "23",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_23_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 40.071446390154
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6201808220962,
+            46.979039927334
+          ],
+          [
+            9.6204254727317,
+            46.979106097463
+          ],
+          [
+            9.6205996428021,
+            46.979123730778
+          ],
+          [
+            9.6206869092935,
+            46.979119076115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "6",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_6_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 14.56962156973
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6204163370719,
+            46.980002171792
+          ],
+          [
+            9.6206044953,
+            46.980026518141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "16",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_16_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 24.686190034302
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6188594852865,
+            46.979093007829
+          ],
+          [
+            9.6186414566426,
+            46.978928563515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "15",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_15_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 2,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 51.162114216049
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6196749657753,
+            46.979504455062
+          ],
+          [
+            9.6193414666805,
+            46.97936814733
+          ],
+          [
+            9.6191151423662,
+            46.979250748969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "SCHUTZ": 1,
+        "MNE_ID": 1008,
+        "WERK_NR": "9",
+        "WERK_ART": "E39",
+        "WERKART": "Stahlwerk ZÜLLIG Typ SA",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_9_1 / 2 / 3",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 106.27859557206
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6193061818052,
+            46.979759267305
+          ],
+          [
+            9.6192402556117,
+            46.979711247318
+          ],
+          [
+            9.6187060422056,
+            46.979478001527
+          ],
+          [
+            9.6184766846743,
+            46.979357666698
+          ],
+          [
+            9.618379382514,
+            46.979294674616
+          ],
+          [
+            9.6182240223659,
+            46.979165948776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "SCHUTZ": 3,
+        "MNE_ID": 1008,
+        "WERK_NR": "3",
+        "WERK_ART": "S01",
+        "WERKART": "Schutzbauten mit starren Stützen (alle Typen)",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_3_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 50.323472841711
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6186564100999,
+            46.979628812066
+          ],
+          [
+            9.6183765803936,
+            46.979505567827
+          ],
+          [
+            9.6181348796361,
+            46.979353166645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "SCHUTZ": 3,
+        "MNE_ID": 1008,
+        "WERK_NR": "7",
+        "WERK_ART": "S01",
+        "WERKART": "Schutzbauten mit starren Stützen (alle Typen)",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_7_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 40.199060683452
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6198991369285,
+            46.979957802255
+          ],
+          [
+            9.6200253308077,
+            46.979956816443
+          ],
+          [
+            9.6202151392994,
+            46.979968074134
+          ],
+          [
+            9.6203317986779,
+            46.97996160398
+          ],
+          [
+            9.6204232113357,
+            46.979944992445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "SCHUTZ": 3,
+        "MNE_ID": 1008,
+        "WERK_NR": "2",
+        "WERK_ART": "S01",
+        "WERKART": "Schutzbauten mit starren Stützen (alle Typen)",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_2_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 49.41437319498
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6192342744094,
+            46.979841573616
+          ],
+          [
+            9.6186845459461,
+            46.979604890329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "SCHUTZ": 3,
+        "MNE_ID": 1008,
+        "WERK_NR": "8",
+        "WERK_ART": "S01",
+        "WERKART": "Schutzbauten mit starren Stützen (alle Typen)",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_8_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 50.943309016608
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6193061818052,
+            46.979759267305
+          ],
+          [
+            9.6195827342701,
+            46.979863283201
+          ],
+          [
+            9.6197010569503,
+            46.979921208434
+          ],
+          [
+            9.6197860396047,
+            46.979950041265
+          ],
+          [
+            9.6198991369285,
+            46.979957802255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "SCHUTZ": 3,
+        "MNE_ID": 1008,
+        "WERK_NR": "4",
+        "WERK_ART": "S01",
+        "WERKART": "Schutzbauten mit starren Stützen (alle Typen)",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_4_1 / 2",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 14.370284318851
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6181826614068,
+            46.979348347035
+          ],
+          [
+            9.6180490650727,
+            46.979256975928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "SCHUTZ": 3,
+        "MNE_ID": 1008,
+        "WERK_NR": "1",
+        "WERK_ART": "S01",
+        "WERKART": "Schutzbauten mit starren Stützen (alle Typen)",
+        "BAUJAHR": 1995,
+        "FOTO": "werk_1_1",
+        "TECH_SPEZ": null,
+        "ENERGIE": null,
+        "WERK_HOEHE": 3,
+        "BEMERKUNG": null,
+        "DATE_OUT": null,
+        "SHAPE_Length": 40.492761558096
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6202701153404,
+            46.980073249729
+          ],
+          [
+            9.6205081187051,
+            46.980124661719
+          ],
+          [
+            9.6205660763026,
+            46.980150467598
+          ],
+          [
+            9.6206458611504,
+            46.980178690587
+          ],
+          [
+            9.6207666297137,
+            46.980196926615
+          ]
+        ]
+      }
+    }
+  ]
+}
