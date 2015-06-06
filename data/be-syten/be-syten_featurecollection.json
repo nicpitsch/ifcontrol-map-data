@@ -1,5 +1,6 @@
 {
-"perimeter_ID": "BE_0666",                                                                        
+"perimeter_ID": "BE_0666",
+"type": "featurecollection",                                                                     
 "features": [
 { "type": "Feature", "properties": { "MNE_ID": "0666", "WERK_NR": 6, "WERK_ART": "Aluschneebruecke", "BAUJAHR": 1956 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.523623179963865, 46.458117308348029 ], [ 7.523533324103847, 46.458092285789888 ] ] } },
 { "type": "Feature", "properties": { "MNE_ID": "0666", "WERK_NR": 1, "WERK_ART": "Stahlschneebruecke", "BAUJAHR": 1968 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.523978493575615, 46.458340591792179 ], [ 7.523935909637481, 46.458320758757644 ] ] } },
