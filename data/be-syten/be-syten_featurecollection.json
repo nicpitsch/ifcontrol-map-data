@@ -15,6 +15,6 @@
 { "type": "Feature", "properties": { "MNE_ID": "0666", "WERK_NR": 5, "WERKART": "Aluschneebruecke", "BAUJAHR": 1956 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.523693947432443, 46.458177714601675 ], [ 7.523610464477444, 46.458142154047174 ] ] } },
 { "type": "Feature", "properties": { "MNE_ID": "0666", "WERK_NR": 7, "WERKART": "Aluschneebruecke", "BAUJAHR": 1956 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.523516576661046, 46.458090979266132 ], [ 7.523421389785054, 46.45808186132475 ] ] } },
 { "type": "Feature", "properties": { "MNE_ID": "0666", "WERK_NR": 8, "WERKART": "Aluschneebruecke", "BAUJAHR": 1956 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.523416298862766, 46.458087250509429 ], [ 7.523320726069976, 46.458071848576353 ] ] } },
-{ "type": "Feature", "properties": { "MNE_ID": "0666", "WERK_NR": 9, "WERKART": "Aluschneebruecke", "BAUJAHR": 1956 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.523312437800411, 46.458071309494038 ], [ 7.523243564769433, 46.458058775726442 ] ] } },
+{ "type": "Feature", "properties": { "MNE_ID": "0666", "WERK_NR": 9, "WERKART": "Aluschneebruecke", "BAUJAHR": 1956 }, "geometry": { "type": "LineString", "coordinates": [ [ 7.523312437800411, 46.458071309494038 ], [ 7.523243564769433, 46.458058775726442 ] ] } }
 ]
 }
