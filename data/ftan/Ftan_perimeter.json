@@ -1,0 +1,6 @@
+{ 
+"type": "perimeter", 
+"perimeter_ID": "GR_1", 
+"properties": { "OBJECTID": 2, "NAME": "Bike", "MNE_ID": 1235, "BAU_BEG": 2017, "BAU_END": 2018, "BEMERKUNG": "Bike Trailcenter", "UHE_ID": null, "VG_ID": 2, "DATE_OUT": null, "INFOBLATT": null, "SHAPE_Leng": null, "SHAPE_Area": null }, 
+"geometry": { "type": "Polygon", "coordinates": [ [ [ 10.22975265241997, 46.79598765671583 ], [ 10.241296127666887, 46.795704879721256 ], [ 10.24098977346636, 46.789818042635289 ], [ 10.22944755784517, 46.790100789038924 ], [ 10.22975265241997, 46.79598765671583 ] ] ] }
+}
