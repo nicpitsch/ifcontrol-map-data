@@ -1,5 +1,5 @@
 {
-"perimeter_ID": "GR_1043",                                                                       
+"perimeter_ID": "GR_1043",
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 24, "SCHUTZ": 1, "MNE_ID": 1043, "WERK_NR": "35", "WERK_ART": "Z02", "BAUJAHR": 1956, "FOTO": "48,49", "BEMERKUNG": "12 Stützen", "TECH_SPEZ": null, "ENERGIE": 0, "WERK_HOEHE": 0.000000, "DATE_OUT": null, "WERK_ART_O": "Z02", "SHAPE_Leng": 19.465769, "Werk_Art_G": "Z", "WERKART": "Z02, H=0" }, "geometry": { "type": "LineString", "coordinates": [ [ 9.807587156362144, 46.981551005974296 ], [ 9.807587117084609, 46.981492232839912 ], [ 9.807522172279381, 46.981384735231785 ] ] } },
 { "type": "Feature", "properties": { "OBJECTID": 25, "SCHUTZ": 1, "MNE_ID": 1043, "WERK_NR": "K8", "WERK_ART": "L06", "BAUJAHR": 1954, "FOTO": "8", "BEMERKUNG": null, "TECH_SPEZ": null, "ENERGIE": 0, "WERK_HOEHE": 0.000000, "DATE_OUT": null, "WERK_ART_O": "L06", "SHAPE_Leng": 2.000022, "Werk_Art_G": "L", "WERKART": "L06, H=0" }, "geometry": { "type": "LineString", "coordinates": [ [ 9.806930664325977, 46.981678824054569 ], [ 9.806931748135625, 46.98169679920187 ] ] } },
