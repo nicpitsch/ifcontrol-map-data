@@ -16,7 +16,7 @@ The procedure is as follows:
 8. Go to http://admin.kufi.ifcontrol.ch and log in.
 9. Click on *Users* in the sidebar.
 10. Create a new user on the top of the page. Make sure the name you enter **matches** the new directory from earlier **exactly**. e.g. `test22`. Your choice of password is free.
-11. Log in as the new user into http://kufi.ifcontro.ch and see all new inspection data.
+11. Log in as the new user into http://kufi.ifcontrol.ch and see all new inspection data.
 
 
 ## The Data Format
